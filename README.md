@@ -1,6 +1,6 @@
 # Brasic
 
-Uma implementação C do Tiny Basic, com foco no suporte ao Arduino e outras placas de desenvolvimento, adaptado a linguagem português brasil, com comandos em português e fácil entendimento. É baseado nos códigos escrito por Gordon Brandly na forma de "68000 Tiny Basic" (BASIC Ingles) e depois transportado para C por Michael Field como "Arduino Basic", embora ainda chamado de "Tiny Basic" nos arquivos de origem.
+Uma implementação C do Tiny Basic, com foco no suporte ao Arduino e outras placas de desenvolvimento, adaptado a linguagem português brasil, com comandos em português e fácil entendimento. É baseado nos códigos escrito por Gordon Brandly na forma de "68000 Tiny Basic" (BASIC Ingles) e depois transportado para C por Michael Field como "Arduino Basic", embora ainda chamado de "Tiny Basic" nos arquivos de origem, e adaptado para Brasic por Sam Mahonri.
 
 O Brasic é uma extensão e modificação do "Tiny Basic" original, adicionando suporte para mais alguns dispositivos, configuráveis no momento da criação, e adaptado para o Brasil pela língua portuguesa. Ele foi projetado para uso no Arduino para o Physalis Palmtop.
 
