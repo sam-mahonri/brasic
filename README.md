@@ -187,16 +187,5 @@ Licença do Tiny Basic C por Michael Field:
 
 Michael Field disponibilizou uma licença semelhante a MIT License.
 
-Licença* do Brasic por Sam Mahonri:
-
-Sam Mahonri disponibiliza o Brasic em uma licença GPL Versão 3.
-
-*Um programa com licença MIT pode ser incorporado em um programa com licença GPL que é o caso do Brasic.
-
-GNU GPL General Public License: 
-    1. A liberdade de executar o programa, para qualquer propósito Nº 0 
-    2. A liberdade de estudar como o programa funciona e adaptá-lo às suas necessidades Nº 1. O acesso ao código-fonte é um pré-requisito para esta liberdade. 
-    3. A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo Nº 2. 
-    4. A liberdade de aperfeiçoar o programa e liberar os seus aperfeiçoamentos, de modo que toda a comunidade beneficie deles Nº 3. O acesso ao código-fonte é um pré-requisito para esta liberdade.
 
 
