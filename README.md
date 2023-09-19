@@ -141,7 +141,7 @@ Agora, crie um novo programa na memória principal e execute-o
 
 > NOVO
 > 10 A = 10
-> 20 IMPREMIR A
+> 20 IMPRIMIR A
 > 30 IMPRIMIR "A partir da RAM!"
 > 40 ECORRENTE
 
